@@ -1,7 +1,7 @@
 [![Header](https://github.com/artmaxst/artmaxst/blob/main/12_Монтажная%20область%201_Монтажная%20область%201_Монтажная%20область%201.png)](https://artsiomrusau.com/)
 ## I'm a QA Tester.  
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://hh.ru/applicant/resumes/view?resume=7587ed72ff07d6108c0039ed1f6b304354524e)
 
 
 ### Language and Tools
