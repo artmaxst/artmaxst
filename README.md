@@ -2,6 +2,8 @@
 
 Я <b>Максим Тарасюк</b>, тестировщик ПО.
 
+### My CV
+[Link to my CV](https://hh.ru/applicant/resumes/view?resume=7587ed72ff07d6108c0039ed1f6b304354524e)
 
 ### Вот, что я умею
 
