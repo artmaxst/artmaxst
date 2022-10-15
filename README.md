@@ -11,7 +11,7 @@
 
 ### Сертификаты Нетологии
 
-- Manual testing of web applications https://github.com/artmaxst/artmaxst/commit/7ab25ca537b48069c48f3fa505b5bb32f23fb44e
+[Ручное тестирование веб-приложений](https://github.com/artmaxst/Homework/blob/main/Manual%20testing%20of%20web%20applications.pdf)
 
 
 
