@@ -11,17 +11,7 @@
 
 ### Сертификаты Нетологии
 
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
-
-- Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
-
-- Python в web-разработке https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pyweb.pdf
-
-- SQL и получение данных https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
-
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
-
-- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
+- Manual testing of web applications https://github.com/artmaxst/artmaxst/commit/7ab25ca537b48069c48f3fa505b5bb32f23fb44e
 
 
 
