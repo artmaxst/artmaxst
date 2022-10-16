@@ -2,8 +2,8 @@
 
 Я <b>Максим Тарасюк</b>, тестировщик ПО.
 
-### My CV
-[Link to my CV](https://drive.google.com/file/d/1TapCsTnKHNuopoQ4EOIKmz2uSYqUBANP/view?usp=sharing)
+### Резюме
+[Link to my CV](https://drive.google.com/file/d/1moViit6hmz1LOkp1m16-umdMqr1fT2ee/view?usp=sharing)
 
 ### Вот, что я умею
 
