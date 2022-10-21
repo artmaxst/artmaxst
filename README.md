@@ -7,7 +7,7 @@
 
 ### Вот, что я умею
 
-- Тестировщик ПО. [Домашние работы по курсу Тестировщик ПО](https://github.com/artmaxst/Homework)
+- [Проекты](https://github.com/artmaxst/Homework)
 
 
 
