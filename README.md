@@ -3,7 +3,7 @@
 Я <b>Максим Тарасюк</b>, тестировщик ПО.
 
 ### Резюме
-[Link to my CV](https://drive.google.com/file/d/1HjPLeAfmDf-tmsy-tAMSJt3YEzux7fwe/view?usp=sharing)
+[Тестировщик ПО](https://drive.google.com/file/d/1HjPLeAfmDf-tmsy-tAMSJt3YEzux7fwe/view?usp=sharing)
 
 ### My Stack
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
