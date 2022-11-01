@@ -1,6 +1,6 @@
-### Привет!
+### Hey!
 
-Я <b>Максим Тарасюк</b>, тестировщик ПО.
+Я <b>Максим Тарасюк</b>, QA Function Testing.
 
 ### Резюме
 [Тестировщик ПО](https://drive.google.com/file/d/1HjPLeAfmDf-tmsy-tAMSJt3YEzux7fwe/view?usp=sharing)
