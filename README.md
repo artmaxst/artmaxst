@@ -1,34 +1,23 @@
-### Hey!
+# Hey, I'm Max 👋
 
-Я <b>Максим Тарасюк</b>, QA Ingineer.
+I build AI-powered products end to end — from the idea to a working tool people actually use, deployed and iterated on in production.
 
-### Резюме
-[QA Ingineer](https://drive.google.com/file/d/1HjPLeAfmDf-tmsy-tAMSJt3YEzux7fwe/view?usp=sharing)
+**Currently:** building [PostMeet](https://github.com/artmaxst/postmeet) — a tool that turns raw meeting transcripts into structured, client-ready summaries — including the Telegram bot that automates the whole pipeline with Claude.
 
-### My Stack
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=&logoColor=71b556)
+### Featured project
 
+**[postmeet-bot](https://github.com/artmaxst/postmeet-bot)** — Telegram bot that generates meeting summaries with Claude, running entirely on Cloudflare Workers (KV + Queues, streaming LLM responses, no server to manage).
 
-### Вот, что я умею
+### Stack
 
-- [Проекты](https://github.com/artmaxst/Homework)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-090909?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Claude API](https://img.shields.io/badge/Claude_API-090909?style=for-the-badge&logo=anthropic&logoColor=d97757)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f05033)
 
+### Find me
 
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/artmaxst)
 
-### Сертификаты Нетологии
-
-[Ручное тестирование веб-приложений](https://github.com/artmaxst/Homework/blob/main/Manual%20testing%20of%20web%20applications.pdf)
-
-### Follow Me
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/artmax.st/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/artmaxst)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmaxst&show_icons=true&theme=radical)
-
-
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmaxst&show_icons=true&theme=radical)
