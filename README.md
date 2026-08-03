@@ -1,23 +1,27 @@
-# Hey, I'm Max 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=5B4AF7&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Max+%F0%9F%91%8B;I+build+AI+products+end+to+end;Idea+%E2%86%92+shipped+%E2%86%92+in+production" alt="Typing SVG" />
+</p>
 
 I build AI-powered products end to end — from the idea to a working tool people actually use, deployed and iterated on in production.
 
-**Currently:** building [PostMeet](https://github.com/artmaxst/postmeet) — a tool that turns raw meeting transcripts into structured, client-ready summaries — including the Telegram bot that automates the whole pipeline with Claude.
+---
 
-### Featured project
+### What I'm building
 
-**[postmeet-bot](https://github.com/artmaxst/postmeet-bot)** — Telegram bot that generates meeting summaries with Claude, running entirely on Cloudflare Workers (KV + Queues, streaming LLM responses, no server to manage).
+**[PostMeet](https://github.com/artmaxst/postmeet)** — turns raw meeting transcripts into structured, client-ready summaries: action items, decisions, open risks, a drafted follow-up email.
 
-### Stack
+**[postmeet-bot](https://github.com/artmaxst/postmeet-bot)** — the Telegram bot that automates it. Runs entirely on Cloudflare Workers: KV + Queues for async processing, Claude API streamed over SSE, no server to manage.
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-090909?style=for-the-badge&logo=cloudflare&logoColor=f38020)
-![Claude API](https://img.shields.io/badge/Claude_API-090909?style=for-the-badge&logo=anthropic&logoColor=d97757)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f05033)
+---
 
-### Find me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,javascript,git,telegram&theme=dark" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/artmaxst)
+<p align="center">
+  <a href="https://t.me/artmaxst"><img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db" /></a>
+</p>
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmaxst&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artmaxst&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Max's GitHub stats" />
+</p>
